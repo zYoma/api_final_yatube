@@ -1,11 +1,13 @@
 Учебный проект по реализации API на базе Django REST Framework
 
-Установка
+Установка:
+
 -склонируйте репозиторий
 -выполните миграции
 
 
 Доступные методы:
+
 /api/v1/posts/   (GET, POST, PUT, PATCH, DELETE)
 /api/v1/posts/<id>/coments  (GET, POST, PUT, PATCH, DELETE)
 /api/v1/group/ (GET, POST)
