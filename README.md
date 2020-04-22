@@ -1,4 +1,4 @@
-Учебный проект по реализации API на базе Django REST Framework
+*Учебный проект по реализации API на базе Django REST Framework*
 
 Установка:
 
