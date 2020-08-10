@@ -22,7 +22,14 @@ pip install -r requirements.txt
 ```
 python manage.py migrate
 ```
-
+Создание суперпользователя:
+```
+python manage.py createsuperuser
+```
+Загрузить фикстуры:
+```
+python manage.py loaddata fixtures.json
+```
 
 ### Доступные методы:
 ```
